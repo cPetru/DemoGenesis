@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApi", "ContactsApi\ContactsApi.csproj", "{C548A47E-68BF-4634-AC17-6F104BEA340E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{085BE441-77DC-4AAB-8CA5-0FF957A0750E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C548A47E-68BF-4634-AC17-6F104BEA340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C548A47E-68BF-4634-AC17-6F104BEA340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C548A47E-68BF-4634-AC17-6F104BEA340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C548A47E-68BF-4634-AC17-6F104BEA340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085BE441-77DC-4AAB-8CA5-0FF957A0750E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085BE441-77DC-4AAB-8CA5-0FF957A0750E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085BE441-77DC-4AAB-8CA5-0FF957A0750E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085BE441-77DC-4AAB-8CA5-0FF957A0750E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
